@@ -1,0 +1,265 @@
+/* Event Tile */
+
+position: absolute;
+width: 361px;
+height: 230px;
+left: 15px;
+top: 190px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Global/Grey */
+background: #F2F2F2;
+border-radius: 10px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 47.83%;
+
+background: url(Rosalía-768x512.jpg);
+border-radius: 10px 10px 0px 0px;
+
+
+/* Date · Time */
+
+position: absolute;
+left: 3.24%;
+right: 6.06%;
+top: 57.71%;
+bottom: 33.59%;
+
+/* Body/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 19px;
+/* identical to box height, or 160% */
+
+/* Typography/Dark */
+color: #262627;
+
+
+
+/* Name Event */
+
+position: absolute;
+left: 3.24%;
+right: 4.84%;
+top: 66.41%;
+bottom: 23.16%;
+
+/* Body/Default+Bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Typography/Dark */
+color: #262627;
+
+
+
+/* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 53px;
+right: 13px;
+top: 86.7%;
+bottom: 6.34%;
+
+
+
+/* icon/heart */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.45%;
+right: 6.45%;
+top: 12.49%;
+bottom: 11.54%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* icon/share-2 */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 66.67%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 62.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 12.5%;
+top: 66.67%;
+bottom: 8.33%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.79%;
+right: 35.75%;
+top: 56.29%;
+bottom: 27.13%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.79%;
+right: 35.79%;
+top: 27.12%;
+bottom: 56.29%;
+
+/* Typography/Grey */
+border: 2px solid #7C7C7C;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 331.61px;
+height: 20px;
+left: 12px;
+top: 180.66px;
+
+
+
+/* icon/map-pin */
+
+width: 14px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* Typography/Dark */
+border: 1px solid #262627;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 29.17%;
+bottom: 45.83%;
+
+/* Global/Dark */
+border: 1px solid #333538;
+
+
+/* Location */
+
+width: 313.61px;
+height: 20px;
+
+/* Body/Small */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 19px;
+/* identical to box height, or 160% */
+
+/* Typography/Dark */
+color: #262627;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
